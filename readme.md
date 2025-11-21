@@ -1,1 +1,1 @@
-bu yangi yil sayti
+bu yangi yil countdown sayti
